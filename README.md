@@ -1,9 +1,9 @@
 # Black-Dragon V-1.2
 An Adavnced Automation Tool For Web-Recon Developed For Linux Systems
 
-<center>
+<div align="center">
 <img src='1620024203280.png' width='70%' height='70%'>
-</center>
+</div>
 
 ## What Is Black Dragon ?
 
