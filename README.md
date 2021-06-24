@@ -1,5 +1,5 @@
 # Black-Dragon V2.0 [VIPX Edition]
-An Adavnced Automation Tool For Web-Recon Developed For Linux Systems
+An Advanced Automation Tool For Web-Recon Developed For Linux Systems
 
 <div align="center">
 	
