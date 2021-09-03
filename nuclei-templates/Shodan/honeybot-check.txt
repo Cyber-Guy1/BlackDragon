@@ -1,2 +1,0 @@
-Not a honeypot
-Score: 0.0
