@@ -155,7 +155,7 @@ cd ~/BlackDragon/BD-Tools/
 
 printf "\n\n\e[7m Installing aquatone \e[27m\n\n"
 
-go get github.com/michenriksen/aquatone
+go install github.com/michenriksen/aquatone@latest
 
 cd ~/BlackDragon/BD-Tools/
 
@@ -207,11 +207,11 @@ cd ~/BlackDragon/BD-Tools/
 
 printf "\n\n\e[7m Installing HTTProbe \e[27m\n\n"
 
-go get -u github.com/tomnomnom/httprobe
+go install github.com/tomnomnom/httprobe@latest
 
 printf "\n\n\e[7m Installing Waybackurls \e[27m\n\n"
 
-go get github.com/tomnomnom/waybackurls
+go install github.com/tomnomnom/waybackurls@latest
 
 printf "\n\n\e[7m Downloading SecLists \e[27m\n\n"
 
@@ -233,7 +233,7 @@ sudo mv amass /usr/bin/
 
 printf "\n\n\e[7m Installing assetfinder \e[27m\n\n"
 
-go get -u github.com/tomnomnom/assetfinder
+go install github.com/tomnomnom/assetfinder@latest
 
 printf "\n\n\e[7m Installing Knockpy \e[27m\n\n"
 
@@ -271,7 +271,7 @@ cd ~/BlackDragon/BD-Tools/
 
 printf "\n\n\e[7m Installing gobuster \e[27m\n\n"
 
-go get github.com/OJ/gobuster
+go install github.com/OJ/gobuster@latest
 
 printf "\n\n\e[7m Installing dirb \e[27m\n\n"
 
